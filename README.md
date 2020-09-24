@@ -7,5 +7,5 @@ Find the vowel and consonant letters in full name and count them.
 Finally, print a message that show the name age and number of vowel and consonant letters.
 
 Our group members:
-Matthew Rincon
-Peyman Abbasian
+
+Matthew Rincon and Peyman Abbasian
